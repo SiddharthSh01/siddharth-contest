@@ -1,0 +1,29 @@
+.thrm{
+  width: 1000px;
+  height: 580px;  
+  padding:100px;
+}
+.imageform{
+  border: 7px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+form{
+    border: 7px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.submit{
+    margin-top: 20px;
+}
+ 
+.tables{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
